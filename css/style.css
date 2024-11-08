@@ -1,0 +1,25 @@
+.mydiv {
+    position: relative;
+    top: 20px;
+    left: 20px;
+
+}
+
+.div {
+    height: 200px;
+    width: 200px;
+}
+
+.div1 {
+    background-color: deeppink;
+    position: absolute;
+}
+
+.div2 {
+    background-color: tomato;
+    position: fixed;
+}
+
+.div3 {
+    background-color: yellow;
+}
